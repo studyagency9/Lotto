@@ -1,0 +1,12 @@
+{
+  "name": "lotto-game",
+  "version": "1.0.0",
+  "description": "Lotto Five in Line Game",
+  "scripts": {
+    "start": "serve",
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  }
+}
